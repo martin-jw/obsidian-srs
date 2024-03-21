@@ -14,7 +14,7 @@ See [planned features](https://github.com/martin-jw/obsidian-recall#planned-feat
 4. [Review](https://github.com/martin-jw/obsidian-recall#review) them!
 
 ## Installation
-The plugin is not yet available in Obsidian's community plugin section, so until then the plugin has to be installed manually.
+The plugin is now available in Obsidian's community plugin section.
 
 ### Manual installation
 In your vault, navigate to `.obsidian/plugins` and create a folder called `obsidian-recall`. Add the `main.js`, `manifest.json` and `styles.css` files from the [latest release](https://github.com/martin-jw/obsidian-recall/releases) to the folder.
